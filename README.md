@@ -1,2 +1,2 @@
 # AI-Project
-Explore different ML algorithms
+Explore different ML algorithms !
